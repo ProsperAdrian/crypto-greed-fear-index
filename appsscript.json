@@ -1,0 +1,17 @@
+{
+  "timeZone": "Africa/Lagos",
+  "dependencies": {
+    "enabledAdvancedServices": []
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8",
+  "dataStudio": {
+    "name": "Alternative.me Fear and Greed Index Connector",
+    "logoUrl": "https://alternative.me/media/256/sublime-text-icon-8p6qynqu6as8nat6-c.png",
+    "company": "Prosperlytix",
+    "companyUrl": "https://alternative.me/crypto/fear-and-greed-index/",
+    "addonUrl": "https://alternative.me/crypto/fear-and-greed-index/",
+    "supportUrl": "https://alternative.me/crypto/fear-and-greed-index/",
+    "description": "Connects to the Alternative.me Fear and Greed Index API"
+  }
+}
